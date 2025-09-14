@@ -16,30 +16,30 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 * [Performance Testing](https://docs.google.com/spreadsheets/d/1OMKEaLEgPjmYHgw6S3g_GhvHAvkmPsXg/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 * [Android and IOS APP Issues](https://docs.google.com/spreadsheets/d/1VLEBhCAlDZg7Dkk83E9u65J7e41di53r/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true
 
-**2. Optimus - DM Clinical Research**
+ **2. Optimus - DM Clinical Research**
 * [Test plan](https://docs.google.com/document/d/1SFauFJJK4EIbLg2fYTso0yIWBQaW4Tfp/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
 
-**3. Rejuuv Marketplace**
+ **3. Rejuuv Marketplace**
 
 * [Test Cases - Module Wise](https://docs.google.com/spreadsheets/d/1guapzPipWfpnxwo0DTt2LfmM_1LqCYuy/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
-**4. Let's Go**
+ **4. Let's Go**
 
 * [AI Defect Sheet - Itinerary](https://docs.google.com/spreadsheets/d/15FNqG1Jm3dQF2gVAt2uM9UH-eFsy8SjO/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)<br>
 * [Test Cases and Bug Report](https://docs.google.com/spreadsheets/d/1MC0krDN8bXoysXeB1cR5Ya0kMjoHFjrv/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 * [Responsive Issues](https://docs.google.com/spreadsheets/d/1Dp17LKJjKU1eXMpX8dEauT-kEzZg9Dq6/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true).
 
-   **5. MyDrScripts**
+ **5. MyDrScripts**
 
 * [Test Cases and Bug Report](https://docs.google.com/spreadsheets/d/1J20r8O7un6J2EMCjaWqmHDYZipBCXZLW/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
-    **6. DinkumDoc**
+ **6. DinkumDoc**
 
 * [Bug Report](https://docs.google.com/spreadsheets/d/1XMNc9VMnsQxo1vCqk9KSt06xxCG68RRd/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 * [UI/UX Issues](https://docs.google.com/spreadsheets/d/1mmNzOI_xJn6WKMoYK2S2SeZDCqpJ9xWH/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
-**7. VTMIS - Veseel Traffic Monitoring and Information System**
+ **7. VTMIS - Veseel Traffic Monitoring and Information System**
 
 * [Bug Report][VTMIS-M2.xlsx](https://github.com/user-attachments/files/22322055/VTMIS-M2.xlsx)
 
@@ -55,9 +55,7 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 
 ### Postman
 
-[Here](https://documenter.getpostman.com/view/26271502/2s946o5ACP) you can find my postman collection with tasks I've faced during the course or just click [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/26271502-a389a0fa-b992-4c4b-8d19-7b2f104e16d6?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D26271502-a389a0fa-b992-4c4b-8d19-7b2f104e16d6%26entityType%3Dcollection%26workspaceId%3D7941f415-521a-4da0-8729-8e48489b1100)
-
-And [here](https://drive.google.com/file/d/1QqQWKG59P-x7opME06O6d6RgPBKCRYgC/view?usp=drive_link) you can check the content of the tasks.
+[DinkumDoc AI Report](https://docs.google.com/spreadsheets/d/1s9wqKMfEd-SyFygc6crgcy0c1pJ_Rk9r/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true) 
 
 ### SQL
 
