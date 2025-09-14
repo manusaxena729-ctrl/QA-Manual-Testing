@@ -1,11 +1,11 @@
-# QA_Course
-Thanks to the various modules in this course, I was able to familiarise myself with a wide range of topics related to the Quality Assurance branch. In this portfolio, I would like to present the results of my learning. However, I have only included modules in which I can 'materially' present my work. :slightly_smiling_face:
-This course allowed me to:
-* get to know the necessary theory with practice.
-* learn about tools used in QA work.
-* Created and executed manual test cases.
-* create proper documentation.
-* Communicated findings and collaborated with the development team.
+# QA_Projects
+Thanks to the variety of live projects I worked on at Groovy Techno Web Pvt. Ltd., I was able to familiarise myself with a wide range of topics related to the Quality Assurance field. In this portfolio, I would like to showcase the practical experience I gained through those real-world projects. However, I have only included modules where I can 'materially' present my work. :slightly_smiling_face:
+This experience allowed me to:
+* Gain practical knowledge by applying QA theory in real-world scenarios.
+* Work with various tools commonly used in QA processes.
+* Create and execute manual test cases.
+* Prepare clear and structured documentation.
+* Communicate findings effectively and collaborate closely with the development team.
 
 Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt. Ltd.
 
