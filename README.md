@@ -41,7 +41,8 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 
 **7. VTMIS**
 
-* [Bug Report]["C:\Users\Minax\Downloads\VTMIS-M2.xlsx"]
+* [Bug Report][VTMIS-M2.xlsx](https://github.com/user-attachments/files/22322055/VTMIS-M2.xlsx)
+
   
 
 ### Postman
