@@ -14,7 +14,7 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 * [Test cases and Bug Report](https://docs.google.com/spreadsheets/d/1XhgPm-9lYmdaLvSWqSKlg5f-S0Wj34zC/edit?gid=1974762537#gid=1974762537)
 * [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
 * [Performance Testing](https://docs.google.com/spreadsheets/d/1OMKEaLEgPjmYHgw6S3g_GhvHAvkmPsXg/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
-* [Android and IOS APP Issues](https://docs.google.com/spreadsheets/d/1VLEBhCAlDZg7Dkk83E9u65J7e41di53r/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+* [Android and IOS APP Issues](https://docs.google.com/spreadsheets/d/1VLEBhCAlDZg7Dkk83E9u65J7e41di53r/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true
 
 **2. Optimus - DM Clinical Research**
 * [Test plan](https://docs.google.com/document/d/1SFauFJJK4EIbLg2fYTso0yIWBQaW4Tfp/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
@@ -36,8 +36,13 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 
     **6. DinkumDoc**
 
-* [Bug Report](https://docs.google.com/spreadsheets/d/1XMNc9VMnsQxo1vCqk9KSt06xxCG68RRd/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true).
-* [UI/UX Issues](https://docs.google.com/spreadsheets/d/1mmNzOI_xJn6WKMoYK2S2SeZDCqpJ9xWH/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true).
+* [Bug Report](https://docs.google.com/spreadsheets/d/1XMNc9VMnsQxo1vCqk9KSt06xxCG68RRd/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+* [UI/UX Issues](https://docs.google.com/spreadsheets/d/1mmNzOI_xJn6WKMoYK2S2SeZDCqpJ9xWH/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+
+**7. VTMIS**
+
+* [Bug Report][VTMIS-M2.xlsx](https://github.com/user-attachments/files/22321901/VTMIS-M2.xlsx)
+=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
   
 
 ### Postman
