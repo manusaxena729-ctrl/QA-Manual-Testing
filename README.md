@@ -28,6 +28,15 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 * [AI Defect Sheet - Itinerary](https://docs.google.com/spreadsheets/d/15FNqG1Jm3dQF2gVAt2uM9UH-eFsy8SjO/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)<br>
 * [Test Cases and Bug Report](https://docs.google.com/spreadsheets/d/1MC0krDN8bXoysXeB1cR5Ya0kMjoHFjrv/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
+   **5. MyDrScripts**
+
+* [Test Cases and Bug Report](https://docs.google.com/spreadsheets/d/1J20r8O7un6J2EMCjaWqmHDYZipBCXZLW/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+
+    **6. DinkumDoc**
+
+* [Test Cases and Bug Report](https://docs.google.com/spreadsheets/d/1J20r8O7un6J2EMCjaWqmHDYZipBCXZLW/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+  
+
 ### Postman
 
 [Here](https://documenter.getpostman.com/view/26271502/2s946o5ACP) you can find my postman collection with tasks I've faced during the course or just click [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/26271502-a389a0fa-b992-4c4b-8d19-7b2f104e16d6?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D26271502-a389a0fa-b992-4c4b-8d19-7b2f104e16d6%26entityType%3Dcollection%26workspaceId%3D7941f415-521a-4da0-8729-8e48489b1100)
