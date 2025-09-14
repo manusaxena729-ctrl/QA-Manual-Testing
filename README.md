@@ -21,12 +21,12 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 
 **3. Rejuuv Marketplace**
 
-[Test Cases - Module Wise](https://docs.google.com/spreadsheets/d/1guapzPipWfpnxwo0DTt2LfmM_1LqCYuy/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+* [Test Cases - Module Wise](https://docs.google.com/spreadsheets/d/1guapzPipWfpnxwo0DTt2LfmM_1LqCYuy/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
 **4. Let's Go**
 
-[AI Defect Sheet - Itinerary](https://docs.google.com/spreadsheets/d/15FNqG1Jm3dQF2gVAt2uM9UH-eFsy8SjO/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
-[Test Cases and Bug Report](https://docs.google.com/spreadsheets/d/1MC0krDN8bXoysXeB1cR5Ya0kMjoHFjrv/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+* [AI Defect Sheet - Itinerary](https://docs.google.com/spreadsheets/d/15FNqG1Jm3dQF2gVAt2uM9UH-eFsy8SjO/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)<br>
+* [Test Cases and Bug Report](https://docs.google.com/spreadsheets/d/1MC0krDN8bXoysXeB1cR5Ya0kMjoHFjrv/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
 ### Postman
 
