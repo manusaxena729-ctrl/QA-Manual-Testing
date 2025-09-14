@@ -61,6 +61,3 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 
 [Here](https://drive.google.com/file/d/1KSOP_zzklIM21iJGmHo84DIRl7C2KYCz/view?usp=drive_link) you can check what I've learnt.
 
-### ChatGPT
-
-In progress...
