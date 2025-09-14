@@ -39,11 +39,19 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 * [Bug Report](https://docs.google.com/spreadsheets/d/1XMNc9VMnsQxo1vCqk9KSt06xxCG68RRd/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 * [UI/UX Issues](https://docs.google.com/spreadsheets/d/1mmNzOI_xJn6WKMoYK2S2SeZDCqpJ9xWH/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
-**7. VTMIS**
+**7. VTMIS - Veseel Traffic Monitoring and Information System**
 
 * [Bug Report][VTMIS-M2.xlsx](https://github.com/user-attachments/files/22322055/VTMIS-M2.xlsx)
 
   https://docs.google.com/spreadsheets/d/1j9svpbD7cnMbfD3FnexuUlvi89SrCx9H/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true
+
+  **8. Annaizu - HRMS**
+
+* [Bug Report](https://docs.google.com/spreadsheets/d/1ml1n2wpDzc8kD_9U4zgQRUVXKdcCZCBT/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+* [AI Scenarios](https://docs.google.com/document/d/1l-_TLsMjdv_2zULDEHPExCcX8qUwN8Hk/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+* [AI Document](https://docs.google.com/document/d/1qwas9ayFy9QgVo8HhvZpaSfo5G_wscxE/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+
+
 
 ### Postman
 
