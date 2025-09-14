@@ -41,8 +41,7 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 
 **7. VTMIS**
 
-* [Bug Report][VTMIS-M2.xlsx](https://github.com/user-attachments/files/22321901/VTMIS-M2.xlsx)
-=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
+* [Bug Report][VTMIS-M2.xlsx]
   
 
 ### Postman
