@@ -56,7 +56,7 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
  * [Bug Report](https://docs.google.com/document/d/1O8ShriVWGTSI9hG1DR2bJAky5KnvsBGT/edit?usp=sharing&rtpof=true&sd=true)
  * [Test cases based on the user story shared by the client](https://docs.google.com/spreadsheets/d/1tlfBiVdBaId6GRitFTEPKPO2WQq_PlsP/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
-**9. Scarpc - https://scrapc.com/
+**9. Scrapc - https://scrapc.com/
 
  * [Bug Report](https://drive.google.com/file/d/1xbf77XgP-0llB7LMRT-mAOOZCQCGxYWo/view?usp=sharing)
 
