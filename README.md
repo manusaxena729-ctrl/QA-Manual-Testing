@@ -68,7 +68,5 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 
 [DinkumDoc AI Report](https://docs.google.com/spreadsheets/d/1s9wqKMfEd-SyFygc6crgcy0c1pJ_Rk9r/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true) 
 
-### SQL
 
-[Here](https://drive.google.com/file/d/1KSOP_zzklIM21iJGmHo84DIRl7C2KYCz/view?usp=drive_link) you can check what I've learnt.
 
