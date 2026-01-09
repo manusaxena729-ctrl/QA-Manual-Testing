@@ -12,7 +12,6 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 ### Sample documentation
 **1. FootBizz** :- https://play.google.com/store/apps/details?id=com.footbizz&hl=en_IN
 * [Test cases and Bug Report](https://docs.google.com/spreadsheets/d/1XhgPm-9lYmdaLvSWqSKlg5f-S0Wj34zC/edit?gid=1974762537#gid=1974762537)
-* [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
 * [Performance Testing](https://docs.google.com/spreadsheets/d/1OMKEaLEgPjmYHgw6S3g_GhvHAvkmPsXg/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 * [Android and IOS APP Issues](https://docs.google.com/spreadsheets/d/1VLEBhCAlDZg7Dkk83E9u65J7e41di53r/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true
 
