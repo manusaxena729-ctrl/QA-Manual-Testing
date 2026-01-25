@@ -64,6 +64,12 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 
    * [Bug Report](https://docs.google.com/spreadsheets/d/1gApTrvny75Cb_9BZG4rR7pgx2AW4KT-k/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true)
 
+ **12. UTPANN -> is an (ERP) project where I worked on inventory, stock correction, asset tracking, and production-related modules.** https://utpann.in/
+
+ *
+     * [Defect report](https://docs.google.com/spreadsheets/d/1Y9t3QHmEU6onLPoBaDROuXSCpBneyta9/edit?usp=sharing&ouid=104349959062661578616&rtpof=true&sd=true)
+     * [Parameter to be tested](https://docs.google.com/document/d/1IbwlXldtS1-fd0tUu8Z4Xctfbmi1-a6o/edit?usp=sharing&ouid=104349959062661578616&rtpof=true&sd=true)
+
 ### Postman
 
 [DinkumDoc AI Report](https://docs.google.com/spreadsheets/d/1s9wqKMfEd-SyFygc6crgcy0c1pJ_Rk9r/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true) 
