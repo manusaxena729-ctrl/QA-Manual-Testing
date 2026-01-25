@@ -70,6 +70,12 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
      * [Defect report](https://docs.google.com/spreadsheets/d/1Y9t3QHmEU6onLPoBaDROuXSCpBneyta9/edit?usp=sharing&ouid=104349959062661578616&rtpof=true&sd=true)
      * [Parameter to be tested](https://docs.google.com/document/d/1IbwlXldtS1-fd0tUu8Z4Xctfbmi1-a6o/edit?usp=sharing&ouid=104349959062661578616&rtpof=true&sd=true)
 
+  **13 Test Cases for Ecommerce**
+
+   * [Bug Report](https://docs.google.com/spreadsheets/d/116RJASMrmIYG8QzUYV0nOGpmogL7LXKj/edit?usp=sharing&ouid=104349959062661578616&rtpof=true&sd=true)
+   * [Bug Report](https://docs.google.com/spreadsheets/d/1onZfTn_WMYM7RZ8Gi7czuCmkF2AAHN4f/edit?usp=sharing&ouid=104349959062661578616&rtpof=true&sd=true)
+
+
 ### Postman
 
 [DinkumDoc AI Report](https://docs.google.com/spreadsheets/d/1s9wqKMfEd-SyFygc6crgcy0c1pJ_Rk9r/edit?usp=sharing&ouid=109086645129182559829&rtpof=true&sd=true) 
