@@ -75,7 +75,7 @@ Below, you can find examples of tasks I have completed at Groovy Techno Web Pvt.
 
    * [TestCases - OpenCart](https://docs.google.com/spreadsheets/d/116RJASMrmIYG8QzUYV0nOGpmogL7LXKj/edit?usp=sharing&ouid=104349959062661578616&rtpof=true&sd=true)
    * [TestCases Shoplover](https://docs.google.com/spreadsheets/d/1onZfTn_WMYM7RZ8Gi7czuCmkF2AAHN4f/edit?usp=sharing&ouid=104349959062661578616&rtpof=true&sd=true)
-   * [TestCases SwagLabs](https://docs.google.com/spreadsheets/d/1_7WWuvcn_O4BGxLSx6oIaJ3htNpllpKRdG8tkLkWrmg/edit?gid=1806644674#gid=1806644674)
+   * [TestCases SwagLabs](https://docs.google.com/spreadsheets/d/1DMKndj1q0P5TRo2MbRygx1dJKlsnwJXS/edit?usp=sharing&ouid=104349959062661578616&rtpof=true&sd=true)
    * [Kuber Industries - Bug Report](https://docs.google.com/spreadsheets/d/14lHrI5w49o7KePDqnUtIHt3TWNNnCkI9/edit?gid=192130056#gid=192130056)
 
  **14. Boost4U**
